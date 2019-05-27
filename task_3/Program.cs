@@ -30,7 +30,6 @@ namespace task_3
                 catch
                 {
                     ok = false;
-                    //ok = false;
                     Console.WriteLine("Ошибка, повторите ввод");
                 }
             } while (!ok);
